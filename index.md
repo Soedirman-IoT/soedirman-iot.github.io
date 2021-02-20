@@ -28,14 +28,15 @@ Email: imron.rosyadi[at]unsoed.ac.id
 ## Permanent Members
 - [Imron Rosyadi](https://irosyadi-lp.netlify.app/), [Github Profile](https://github.com/irosyadi)
 - [Azis Wisnu Widhi Nugraha](https://github.com/aswinte)
-- Acep Taryana
+- [Acep Taryana](https://github.com/aetthea)
 
 ## Current Members
-- [Prasetya Naufal](https://github.com/Pras360) 
+- [Prasetya Naufal](https://github.com/Pras360)
+- [Firman Adi Wicaksono](https://github.com/firmanadiwicaksono)
 
 ## Past Members
-- [Firman Adi Wicaksono](https://github.com/firmanadiwicaksono)
 - [Arif Rahman Hakim](https://github.com/ariferhakim)
+- [Fahmi Khoirullatif](https://github.com/fahmikhl)
 
 ## Project Repositories
 - [Adaptive Streetlamp](https://github.com/Soedirman-IoT/Silaju-DevOps)
